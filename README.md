@@ -1,9 +1,9 @@
 # WTFramework Bookmarklet
 **Check the JavaScript framework used on a website with just one click**
 
-WTFramwork also contacts [cdnjs.com](http://www.cdnjs.com) for the latest version numbers, to compare with the versions found on the page.
+This is a fork of [WTFramwork](https://github.com/oskarkrawczyk/wtframework) which does not connect any url to check for the latest version numbers.
 
-[Installation page](http://oskarkrawczyk.github.com/wtframework/)
+Installation page: not yet available, for original installation page see: [WTFramework](http://oskarkrawczyk.github.com/wtframework/)
 
 ---
 
