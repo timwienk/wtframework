@@ -3,7 +3,7 @@
 
 This is a fork of [WTFramwork](https://github.com/oskarkrawczyk/wtframework) which does not connect any url to check for the latest version numbers.
 
-Installation page: not yet available, for original installation page see: [WTFramework](http://oskarkrawczyk.github.com/wtframework/)
+[Installation page](http://timwienk.github.com/wtframework/)
 
 ---
 
