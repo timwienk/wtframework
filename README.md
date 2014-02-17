@@ -82,6 +82,7 @@ Installation page: not yet available, for original installation page see: [WTFra
 * [PubNub](http://www.pubnub.com/)
 * [Qooxdoo](http://qooxdoo.org/)
 * [Raphaël](http://raphaeljs.com/)
+* [React](http://facebook.github.io/react/)
 * [Rico](http://openrico.org/)
 * [RightJS](http://rightjs.org/)
 * [Sammy](http://sammyjs.org/)

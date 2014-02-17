@@ -111,6 +111,7 @@
         'PubNub': ['PUBNUB'],
         'Qooxdoo': ['qx.$$libraries.qx.version'],
         'Raphaël': ['Raphael.version'],
+        'React': ['React.version'],
         'Rico': ['Rico.Version'],
         'RightJS': ['RightJS.version'],
         'Sammy': ['Sammy.VERSION'],
