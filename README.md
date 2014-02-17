@@ -31,6 +31,7 @@ Installation page: not yet available, for original installation page see: [WTFra
 * [DHTMLX](http://www.dhtmlx.com/) *
 * [Dojo](http://dojotoolkit.org/)
 * [Dojo Mobile](http://dojotoolkit.org/features/mobile) *
+* [Dust](http://akdubya.github.io/dustjs/) *
 * [Ember](http://emberjs.com/)
 * [Enyo](http://enyojs.com/)
 * [Ext JS](http://www.sencha.com/)

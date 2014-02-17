@@ -59,6 +59,7 @@
         'DHTMLX': ['dhtmlx'],
         'Dojo': ['dojo.version'],
         'Dojo Mobile': ['dojox.mobile'],
+        'Dust': ['dust.compileFn'],
         'Ember': ['Ember.VERSION'],
         'Enyo': ['enyo'],
         'Ext JS': ['Ext.version','Ext.versions.core.version'],
